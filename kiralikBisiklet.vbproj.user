@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="anaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perEkle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perHesabim.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perAnaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perHesabim.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perSifre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="verilerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sifreForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kiralamaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hesabim.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kulGiris.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullaniciEkle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uyeSil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
